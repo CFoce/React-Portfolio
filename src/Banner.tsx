@@ -1,7 +1,7 @@
  
- function Message() {
+ function Banner() {
     const name = 'Chris Foce';
     return <h1>{name}</h1>;
  }
 
- export default Message;
+ export default Banner;

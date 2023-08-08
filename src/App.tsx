@@ -1,7 +1,7 @@
-import Message from './Message';
+import Banner from './Banner';
 
 function App() {
-  return<div><Message /></div>;
+  return<div><Banner /></div>;
 }
 
 export default App;
